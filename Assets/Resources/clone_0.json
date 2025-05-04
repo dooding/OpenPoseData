@@ -1,0 +1,2405 @@
+{
+    "WalkPose": [
+       
+        {
+            "frameName": "Frame24",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.33619499206543,
+                270.83062744140627
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.381406784057617,
+                327.7165832519531
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.335440158843994,
+                325.74615478515627
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.368359088897705,
+                449.1193542480469
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.3786211013793949,
+                449.1498718261719
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.356099605560303,
+                547.1189575195313
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.354927062988281,
+                650.9443969726563
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                4.395447254180908,
+                447.1484680175781
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                4.388213634490967,
+                543.2363891601563
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.343210697174072,
+                648.9690551757813
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.360886096954346,
+                261.1123962402344
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                4.381319046020508,
+                261.0362243652344
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.390917778015137,
+                266.921142578125
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                55.30329132080078,
+                654.8709106445313
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                51.443294525146487,
+                650.8976440429688
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.361733436584473,
+                660.75390625
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                51.43107986450195,
+                656.7774047851563
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                43.63520431518555,
+                662.6897583007813
+            ]
+        },
+        {
+            "frameName": "Frame24",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.345545291900635,
+                666.5591430664063
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                31.856796264648439,
+                270.7777099609375
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.343080520629883,
+                321.8392333984375
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.393518924713135,
+                319.7933654785156
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                39.64641571044922,
+                329.6056213378906
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                47.527950286865237,
+                388.45538330078127
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                71.14973449707031,
+                445.1222839355469
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.338995456695557,
+                449.1170959472656
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.375821113586426,
+                453.0548400878906
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                20.0620174407959,
+                541.162109375
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.352942943572998,
+                650.9163208007813
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                25.955074310302736,
+                447.1733703613281
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                22.082515716552736,
+                541.1779174804688
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.339962959289551,
+                648.9429931640625
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                22.058435440063478,
+                261.02777099609377
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                31.86714744567871,
+                259.1134033203125
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.356564044952393,
+                272.71923828125
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                55.29836654663086,
+                658.7621459960938
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                51.45289993286133,
+                650.9722290039063
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.358672142028809,
+                660.6932373046875
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                45.55100631713867,
+                660.7422485351563
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                39.72380447387695,
+                664.6106567382813
+            ]
+        },
+        {
+            "frameName": "Frame26",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.348069190979004,
+                664.6464233398438
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                69.03546142578125,
+                272.8181457519531
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                39.7000617980957,
+                333.57794189453127
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                4.392963409423828,
+                333.52069091796877
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.3652520179748539,
+                398.2406921386719
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.353559494018555,
+                427.56414794921877
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                72.9686050415039,
+                333.5174255371094
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                112.1524887084961,
+                384.5271301269531
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                159.18905639648438,
+                415.9463806152344
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                39.74748992919922,
+                449.1824645996094
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                22.138017654418947,
+                451.1329040527344
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                84.70991516113281,
+                539.1810913085938
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                96.46949005126953,
+                650.89892578125
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                59.2684326171875,
+                449.1148986816406
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                25.97831916809082,
+                545.1796264648438
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.342584133148193,
+                650.906982421875
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                55.41335678100586,
+                265.01824951171877
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                69.0452651977539,
+                263.0241394042969
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                35.68803024291992,
+                274.7687072753906
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                53.4490966796875,
+                662.6702270507813
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                47.49241638183594,
+                652.9475708007813
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.373895645141602,
+                660.6961669921875
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                149.3942108154297,
+                650.96826171875
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                133.7503204345703,
+                662.7140502929688
+            ]
+        },
+        {
+            "frameName": "Frame28",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                86.70806121826172,
+                664.6028442382813
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                159.1543731689453,
+                276.8100280761719
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                133.64572143554688,
+                339.47015380859377
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                104.38906860351563,
+                339.4950866699219
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                51.42314529418945,
+                398.27203369140627
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                5.334266662597656,
+                443.28564453125
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                161.1378173828125,
+                339.4510498046875
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                202.27999877929688,
+                384.4915771484375
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                257.17657470703127,
+                400.11993408203127
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                137.62290954589845,
+                462.8184509277344
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                123.92093658447266,
+                462.834716796875
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                180.7408447265625,
+                554.9219970703125
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                202.2892608642578,
+                662.6997680664063
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                151.352783203125,
+                462.8310546875
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                116.05045318603516,
+                554.846923828125
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                29.921829223632814,
+                627.4160766601563
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                147.49380493164063,
+                274.70172119140627
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                157.19590759277345,
+                272.77667236328127
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                127.83554077148438,
+                286.5122375488281
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                53.41991424560547,
+                660.7179565429688
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                51.42061996459961,
+                654.8426513671875
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                18.08246421813965,
+                631.3177490234375
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                257.1110534667969,
+                666.6445922851563
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                243.5032501220703,
+                676.3729248046875
+            ]
+        },
+        {
+            "frameName": "Frame30",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                194.46022033691407,
+                670.5772705078125
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                368.9249267578125,
+                288.4551086425781
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                337.3897399902344,
+                341.36468505859377
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                335.5392761230469,
+                343.36395263671877
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                380.5276184082031,
+                400.2721862792969
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                449.18035888671877,
+                431.4351501464844
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                337.43731689453127,
+                337.4681701660156
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                304.2066345214844,
+                384.5311584472656
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                272.8193359375,
+                429.476318359375
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                351.0899658203125,
+                468.7464294433594
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                333.5005187988281,
+                470.6995849609375
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                306.06268310546877,
+                558.9313354492188
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                225.7672119140625,
+                643.1041870117188
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                366.857666015625,
+                466.7565612792969
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                402.1296691894531,
+                556.8652954101563
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                429.62457275390627,
+                664.5811767578125
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                364.8638916015625,
+                278.7314147949219
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                370.7469177246094,
+                278.6664123535156
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                339.39117431640627,
+                288.5117492675781
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                478.56982421875,
+                668.5369262695313
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                476.60052490234377,
+                664.6387939453125
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                423.65338134765627,
+                680.2993774414063
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                257.0682067871094,
+                674.4027099609375
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                241.4774627685547,
+                672.5003662109375
+            ]
+        },
+        {
+            "frameName": "Frame32",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                210.0730743408203,
+                645.0726318359375
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                494.142822265625,
+                272.8287353515625
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                460.961181640625,
+                323.8204040527344
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                455.00164794921877,
+                325.70709228515627
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                429.5085144042969,
+                400.1209716796875
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                413.8992614746094,
+                466.7515563964844
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                470.6732177734375,
+                323.82501220703127
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                494.2439270019531,
+                396.2601013183594
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                541.1720581054688,
+                439.32305908203127
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                462.9278259277344,
+                456.9731140136719
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                464.84759521484377,
+                458.92840576171877
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                521.5912475585938,
+                543.2425537109375
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                523.4868774414063,
+                664.6456298828125
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                462.89227294921877,
+                456.96112060546877
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                447.161376953125,
+                554.9424438476563
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                431.4583435058594,
+                662.64501953125
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                488.2761535644531,
+                264.9476318359375
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                464.7903137207031,
+                272.7926330566406
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                480.4667053222656,
+                672.4599609375
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                474.6375427246094,
+                666.6194458007813
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                417.8644104003906,
+                672.5001831054688
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                570.6172485351563,
+                670.5078125
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                556.9644165039063,
+                680.2467651367188
+            ]
+        },
+        {
+            "frameName": "Frame34",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                509.9602355957031,
+                676.3655395507813
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                635.3609619140625,
+                274.73565673828127
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                605.9229736328125,
+                333.5179748535156
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                603.8649291992188,
+                335.4575500488281
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                572.6262817382813,
+                402.1844482421875
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                554.9287719726563,
+                470.6964111328125
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                617.5404663085938,
+                331.60968017578127
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                645.0752563476563,
+                392.3127746582031
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                696.04541015625,
+                427.62884521484377
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                617.7005004882813,
+                460.8879699707031
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                615.6542358398438,
+                462.81195068359377
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                617.5535888671875,
+                554.976806640625
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                523.5445556640625,
+                617.68896484375
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                625.44189453125,
+                460.849609375
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                654.8184814453125,
+                556.9192504882813
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                662.65087890625,
+                666.6728515625
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                631.3753051757813,
+                270.7934875488281
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                635.2030029296875,
+                268.8637390136719
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                613.737548828125,
+                274.7767639160156
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                709.6488037109375,
+                682.3208618164063
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                705.7523803710938,
+                680.233154296875
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                650.8550415039063,
+                680.4007568359375
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                525.5494384765625,
+                664.57861328125
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                513.8136596679688,
+                656.7927856445313
+            ]
+        },
+        {
+            "frameName": "Frame36",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                507.9267883300781,
+                617.5571899414063
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                778.3284912109375,
+                286.5125427246094
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                742.939208984375,
+                339.4444580078125
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                758.7470703125,
+                345.30731201171877
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                807.6292724609375,
+                398.2723388671875
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                880.1065673828125,
+                429.5929870605469
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                725.337646484375,
+                337.43603515625
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                695.9921875,
+                396.2368469238281
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                666.6625366210938,
+                445.2062683105469
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                742.92822265625,
+                462.9180908203125
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                746.8976440429688,
+                468.705810546875
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                707.7048950195313,
+                566.6544799804688
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                662.607421875,
+                664.572509765625
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                729.3535766601563,
+                460.88226318359377
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                801.7608032226563,
+                551.0200805664063
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                854.6295776367188,
+                645.0689086914063
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                776.2413330078125,
+                276.7095642089844
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                760.7210083007813,
+                286.5148620605469
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                895.7886352539063,
+                645.0311889648438
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                893.8641967773438,
+                639.1597290039063
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                852.7739868164063,
+                662.6969604492188
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                709.7160034179688,
+                680.3755493164063
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                696.0294799804688,
+                684.2606811523438
+            ]
+        },
+        {
+            "frameName": "Frame38",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                648.9923706054688,
+                672.4555053710938
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                942.8262329101563,
+                272.7908935546875
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                901.64501953125,
+                323.7214050292969
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                917.303466796875,
+                325.6985168457031
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                915.3089599609375,
+                402.1521301269531
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                917.414306640625,
+                476.53857421875
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                885.9793701171875,
+                321.76947021484377
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                884.0760498046875,
+                386.45635986328127
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                899.7696533203125,
+                447.1726379394531
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                915.3720092773438,
+                447.26507568359377
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                966.333251953125,
+                545.1624145507813
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                931.0580444335938,
+                654.8258666992188
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                885.9688110351563,
+                445.2563781738281
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                886.1400756835938,
+                554.904296875
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                883.991455078125,
+                656.7742309570313
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                933.1375122070313,
+                263.0144348144531
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                917.4080810546875,
+                272.72027587890627
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                909.5490112304688,
+                664.7105102539063
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                901.7445068359375,
+                662.6558227539063
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                870.4280395507813,
+                668.5596923828125
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                980.0760498046875,
+                684.266357421875
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                966.3451538085938,
+                688.1637573242188
+            ]
+        },
+        {
+            "frameName": "Frame40",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                917.39306640625,
+                664.7129516601563
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                1121.0908203125,
+                276.7630615234375
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                1083.8475341796875,
+                329.6628112792969
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                1103.5655517578125,
+                333.4870910644531
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                1097.616943359375,
+                406.043701171875
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                1101.5057373046875,
+                478.5290222167969
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                1058.4688720703125,
+                327.6721496582031
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                1085.875,
+                404.0464782714844
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                1128.9857177734375,
+                435.4193420410156
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                1081.944580078125,
+                453.083740234375
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                1101.50048828125,
+                458.8735046386719
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                1123.14306640625,
+                560.8429565429688
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                1123.115234375,
+                676.364013671875
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                1064.3179931640625,
+                451.130615234375
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                1089.7327880859375,
+                556.8712158203125
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                1007.4884033203125,
+                619.6512451171875
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                1119.066650390625,
+                272.7284851074219
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                1103.4654541015625,
+                274.8526611328125
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                1011.4285278320313,
+                668.5894165039063
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                1009.36083984375,
+                666.5753173828125
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                991.7724609375,
+                619.677001953125
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                1181.8890380859375,
+                688.1664428710938
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                1168.1793212890625,
+                695.9817504882813
+            ]
+        },
+        {
+            "frameName": "Frame42",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                1117.197998046875,
+                684.222900390625
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                1246.5908203125,
+                345.32855224609377
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                1279.8597412109375,
+                347.2597961425781
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                1213.25732421875,
+                343.37030029296877
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                1170.1766357421875,
+                398.17352294921877
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                1134.907958984375,
+                445.20123291015627
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                1252.3880615234375,
+                470.6793518066406
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                1279.827392578125,
+                474.5749206542969
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                1230.892333984375,
+                570.611083984375
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                1148.564697265625,
+                650.8823852539063
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                1230.8773193359375,
+                464.82879638671877
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                1279.8656005859375,
+                537.3069458007813
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                1279.8502197265625,
+                300.2294006347656
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                1236.678955078125,
+                300.2413024902344
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                1175.97119140625,
+                686.2337646484375
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                1162.24755859375,
+                684.250732421875
+            ]
+        },
+        {
+            "frameName": "Frame44",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                1132.8729248046875,
+                652.8762817382813
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "0_Nose (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "1_Neck (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "2_RShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "3_RElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "4_RWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "5_LShoulder (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "6_LElbow (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "7_LWrist (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "8_MidHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "9_RHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "10_RKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "11_RAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "12_LHip (UnityEngine.RectTransform)",
+            "poseVector": [
+                566.6814575195313,
+                406.0372314453125
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "13_LKnee (UnityEngine.RectTransform)",
+            "poseVector": [
+                554.9317626953125,
+                449.125244140625
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "14_LAnkle (UnityEngine.RectTransform)",
+            "poseVector": [
+                556.908203125,
+                492.2607116699219
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "15_REye (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "16_LEye (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "17_REar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "18_LEar (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "19_LBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                554.9237060546875,
+                496.1485900878906
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "20_LSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                554.92919921875,
+                496.2070007324219
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "21_LHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                556.9253540039063,
+                494.1989440917969
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "22_RBigToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "23_RSmallToe (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "frameName": "Frame52",
+            "posJoint": "24_RHeel (UnityEngine.RectTransform)",
+            "poseVector": [
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}
